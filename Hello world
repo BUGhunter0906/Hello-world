@@ -1,0 +1,5 @@
+#inçlude<studio.h>
+Void main(){
+Printf("Hello world\n);
+return 0;
+}
